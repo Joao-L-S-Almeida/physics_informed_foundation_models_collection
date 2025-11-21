@@ -1,3 +1,6 @@
 [submodule "walrus"]
 	path = walrus
 	url = https://github.com/PolymathicAI/walrus.git
+[submodule "poseidon"]
+	path = poseidon
+	url = https://github.com/camlab-ethz/poseidon
