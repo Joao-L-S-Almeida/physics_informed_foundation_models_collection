@@ -4,3 +4,6 @@
 [submodule "poseidon"]
 	path = poseidon
 	url = https://github.com/camlab-ethz/poseidon
+[submodule "General-Physics-Transformer"]
+	path = General-Physics-Transformer
+	url = https://github.com/FloWsnr/General-Physics-Transformer
