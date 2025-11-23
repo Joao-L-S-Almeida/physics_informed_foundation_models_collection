@@ -1,4 +1,4 @@
-# A Collection of Physics-Informed Foundation Models
+# A Catalogue of Physics-Informed Foundation Models
 
 This is a collection of state-of-art foundation models for Physics and others hard sciences, inspired by [awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers?tab=readme-ov-file#code-resource)
 
